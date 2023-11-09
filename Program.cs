@@ -1,4 +1,6 @@
-﻿using System;
+//Я создала 2 репозитория, потому что vs не загружал на гитхаб сразу 2 решения. 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
